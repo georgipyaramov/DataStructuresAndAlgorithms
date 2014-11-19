@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Trees", "Trees\01.Trees.csproj", "{3BC14472-3725-4F0A-8DF3-57D95A4FD9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FileTree", "FileTree\03.FileTree.csproj", "{329DAE24-E8A3-4FF9-81FD-876584732D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TraverseDirectory", "TraverseDirectory\02.TraverseDirectory.csproj", "{228FF4B0-797D-4888-A6D0-A694AEA9ADB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC14472-3725-4F0A-8DF3-57D95A4FD9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC14472-3725-4F0A-8DF3-57D95A4FD9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC14472-3725-4F0A-8DF3-57D95A4FD9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC14472-3725-4F0A-8DF3-57D95A4FD9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329DAE24-E8A3-4FF9-81FD-876584732D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329DAE24-E8A3-4FF9-81FD-876584732D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329DAE24-E8A3-4FF9-81FD-876584732D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329DAE24-E8A3-4FF9-81FD-876584732D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228FF4B0-797D-4888-A6D0-A694AEA9ADB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228FF4B0-797D-4888-A6D0-A694AEA9ADB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228FF4B0-797D-4888-A6D0-A694AEA9ADB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228FF4B0-797D-4888-A6D0-A694AEA9ADB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
